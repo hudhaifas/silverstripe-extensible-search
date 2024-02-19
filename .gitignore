@@ -1,0 +1,5 @@
+/nbproject/private/
+/.env
+/vendor/
+.idea
+.DS_Store
